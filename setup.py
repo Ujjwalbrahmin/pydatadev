@@ -4,8 +4,7 @@ setup(
     name='pydatadev',
     version='0.0.1',
     description='PyDataDev is envisioned as a utility package for software engineers.' + \
-                'working in Big data and Backend, infra and distributed systems.' + \
-                'This package includes utility which is needed in our day to day engineering tasks.',
+                'working in Big data and Backend, infra and distributed systems.',
     url='https://github.com/Ujjwalbrahmin/pydevutil/',
     author='Ujjwal Brahmin',
     author_email='ujjwalbrahmin@gmail.com',
