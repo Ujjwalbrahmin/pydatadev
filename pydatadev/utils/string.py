@@ -1,5 +1,6 @@
-from pydatadev.constants import DEFAULT_STR_CONNECTOR, DEFAULT_STR_SEPARATOR
 from typing import List
+
+from pydatadev.constants import DEFAULT_STR_CONNECTOR, DEFAULT_STR_SEPARATOR
 
 
 class StringUtils:
