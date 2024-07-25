@@ -113,6 +113,8 @@ classifiers = [
 # https://packaging.python.org/discussions/install-requires-vs-requirements/
 dependencies = [
     'simplejson==3.19.1',
+    'pytest==8.3.1',
+    'pytest-mock==3.14.0'
 ]
 
 # List additional groups of dependencies here (e.g. development

@@ -15,6 +15,8 @@ setup(
     ]),
     install_requires=[
         'simplejson==3.19.1',
+        'pytest==8.3.1',
+        'pytest-mock==3.14.0'
     ],
     python_requires='>=3.10',
 
